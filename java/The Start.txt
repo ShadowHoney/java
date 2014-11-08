@@ -2,3 +2,8 @@ It's a start for myself.
 A way to the world for the adult.
 Not just only an adolescent.
 07-11-14
+
+Change it to 
+Git is a distributed version control system.
+Git is free software.
+09-11-14
